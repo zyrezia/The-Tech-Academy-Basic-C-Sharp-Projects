@@ -1,0 +1,7 @@
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\Method_Class_Assignment\bin\Debug\Method_Class_Assignment.exe.config
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\Method_Class_Assignment\bin\Debug\Method_Class_Assignment.exe
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\Method_Class_Assignment\bin\Debug\Method_Class_Assignment.pdb
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\Method_Class_Assignment\obj\Debug\Method_Class_Assignment.csproj.AssemblyReference.cache
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\Method_Class_Assignment\obj\Debug\Method_Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\Method_Class_Assignment\obj\Debug\Method_Class_Assignment.exe
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Method Class Assignment\Method_Class_Assignment\obj\Debug\Method_Class_Assignment.pdb
