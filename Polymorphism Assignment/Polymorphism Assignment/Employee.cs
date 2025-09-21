@@ -11,6 +11,7 @@ namespace Polymorphism_Assignment
             Console.WriteLine("Name: " + firstname + " " + lastname);
         }
 
+        
         public void Quit()
         {
             Console.WriteLine("The Quit method is called");

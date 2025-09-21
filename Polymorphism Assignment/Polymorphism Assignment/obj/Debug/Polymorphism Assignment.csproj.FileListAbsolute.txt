@@ -5,3 +5,10 @@ C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorp
 C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\Polymorphism Assignment\bin\Debug\Polymorphism Assignment.pdb
 C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\Polymorphism Assignment\obj\Debug\Polymorphism Assignment.exe
 C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism_Assignment\Polymorphism Assignment\obj\Debug\Polymorphism Assignment.pdb
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism Assignment\Polymorphism Assignment\bin\Debug\Polymorphism Assignment.exe.config
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism Assignment\Polymorphism Assignment\bin\Debug\Polymorphism Assignment.exe
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism Assignment\Polymorphism Assignment\bin\Debug\Polymorphism Assignment.pdb
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism Assignment\Polymorphism Assignment\obj\Debug\Polymorphism Assignment.csproj.AssemblyReference.cache
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism Assignment\Polymorphism Assignment\obj\Debug\Polymorphism Assignment.csproj.CoreCompileInputs.cache
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism Assignment\Polymorphism Assignment\obj\Debug\Polymorphism Assignment.exe
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Polymorphism Assignment\Polymorphism Assignment\obj\Debug\Polymorphism Assignment.pdb
