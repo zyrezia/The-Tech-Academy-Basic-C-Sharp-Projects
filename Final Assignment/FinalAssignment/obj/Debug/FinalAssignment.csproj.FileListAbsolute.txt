@@ -1,0 +1,12 @@
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\bin\Debug\FinalAssignment.exe.config
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\bin\Debug\FinalAssignment.exe
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\bin\Debug\FinalAssignment.pdb
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\bin\Debug\EntityFramework.dll
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\bin\Debug\EntityFramework.xml
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.AssemblyReference.cache
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CoreCompileInputs.cache
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\obj\Debug\FinalAssignment.csproj.CopyComplete
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\obj\Debug\FinalAssignment.exe
+C:\Users\mr_jo\Documents\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\Final Assignment\FinalAssignment\obj\Debug\FinalAssignment.pdb
